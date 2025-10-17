@@ -1,0 +1,8 @@
+C:\Users\alfre_kjp2af5\source\repos\Practicas\Ejemplo_pila_arreglo\Ejemplo_pila_arreglo\bin\Debug\Ejemplo_pila_arreglo.exe.config
+C:\Users\alfre_kjp2af5\source\repos\Practicas\Ejemplo_pila_arreglo\Ejemplo_pila_arreglo\bin\Debug\Ejemplo_pila_arreglo.exe
+C:\Users\alfre_kjp2af5\source\repos\Practicas\Ejemplo_pila_arreglo\Ejemplo_pila_arreglo\bin\Debug\Ejemplo_pila_arreglo.pdb
+C:\Users\alfre_kjp2af5\source\repos\Practicas\Ejemplo_pila_arreglo\Ejemplo_pila_arreglo\obj\Debug\Ejemplo_pila_arreglo.csproj.AssemblyReference.cache
+C:\Users\alfre_kjp2af5\source\repos\Practicas\Ejemplo_pila_arreglo\Ejemplo_pila_arreglo\obj\Debug\Ejemplo_pila_arreglo.csproj.CoreCompileInputs.cache
+C:\Users\alfre_kjp2af5\source\repos\Practicas\Ejemplo_pila_arreglo\Ejemplo_pila_arreglo\obj\Debug\Ejemplo_pila_arreglo.exe
+C:\Users\alfre_kjp2af5\source\repos\Practicas\Ejemplo_pila_arreglo\Ejemplo_pila_arreglo\obj\Debug\Ejemplo_pila_arreglo.pdb
+C:\Users\alfre_kjp2af5\source\repos\Practicas\Ejemplo_pila_arreglo\Ejemplo_pila_arreglo\obj\Debug\Ejemplo_pila_arreglo.exe.config

@@ -1,0 +1,8 @@
+C:\Users\alfre_kjp2af5\source\repos\Practicas\Ejercicio_Colas\Ejercicio_Colas\bin\Debug\Ejercicio_Colas.exe.config
+C:\Users\alfre_kjp2af5\source\repos\Practicas\Ejercicio_Colas\Ejercicio_Colas\bin\Debug\Ejercicio_Colas.exe
+C:\Users\alfre_kjp2af5\source\repos\Practicas\Ejercicio_Colas\Ejercicio_Colas\bin\Debug\Ejercicio_Colas.pdb
+C:\Users\alfre_kjp2af5\source\repos\Practicas\Ejercicio_Colas\Ejercicio_Colas\obj\Debug\Ejercicio_Colas.csproj.AssemblyReference.cache
+C:\Users\alfre_kjp2af5\source\repos\Practicas\Ejercicio_Colas\Ejercicio_Colas\obj\Debug\Ejercicio_Colas.csproj.CoreCompileInputs.cache
+C:\Users\alfre_kjp2af5\source\repos\Practicas\Ejercicio_Colas\Ejercicio_Colas\obj\Debug\Ejercicio_Colas.exe
+C:\Users\alfre_kjp2af5\source\repos\Practicas\Ejercicio_Colas\Ejercicio_Colas\obj\Debug\Ejercicio_Colas.pdb
+C:\Users\alfre_kjp2af5\source\repos\Practicas\Ejercicio_Colas\Ejercicio_Colas\obj\Debug\Ejercicio_Colas.exe.config

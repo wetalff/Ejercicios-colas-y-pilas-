@@ -1,0 +1,8 @@
+C:\Users\alfre_kjp2af5\source\repos\Practicas\Ejemplo_cola_arreglos\Ejemplo_cola_arreglos\bin\Debug\Ejemplo_cola_arreglos.exe.config
+C:\Users\alfre_kjp2af5\source\repos\Practicas\Ejemplo_cola_arreglos\Ejemplo_cola_arreglos\bin\Debug\Ejemplo_cola_arreglos.exe
+C:\Users\alfre_kjp2af5\source\repos\Practicas\Ejemplo_cola_arreglos\Ejemplo_cola_arreglos\bin\Debug\Ejemplo_cola_arreglos.pdb
+C:\Users\alfre_kjp2af5\source\repos\Practicas\Ejemplo_cola_arreglos\Ejemplo_cola_arreglos\obj\Debug\Ejemplo_cola_arreglos.csproj.AssemblyReference.cache
+C:\Users\alfre_kjp2af5\source\repos\Practicas\Ejemplo_cola_arreglos\Ejemplo_cola_arreglos\obj\Debug\Ejemplo_cola_arreglos.csproj.CoreCompileInputs.cache
+C:\Users\alfre_kjp2af5\source\repos\Practicas\Ejemplo_cola_arreglos\Ejemplo_cola_arreglos\obj\Debug\Ejemplo_cola_arreglos.exe
+C:\Users\alfre_kjp2af5\source\repos\Practicas\Ejemplo_cola_arreglos\Ejemplo_cola_arreglos\obj\Debug\Ejemplo_cola_arreglos.pdb
+C:\Users\alfre_kjp2af5\source\repos\Practicas\Ejemplo_cola_arreglos\Ejemplo_cola_arreglos\obj\Debug\Ejemplo_cola_arreglos.exe.config
